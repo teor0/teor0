@@ -1,6 +1,7 @@
 
 ![](https://readme-typing-svg.demolab.com?font=Josefin+Sans&duration=5000&pause=200&color=1300F7&multiline=true&width=450&height=75&lines=Welcome+to+my+Github+profile+page;I'm+Matteo+Orlando+%7C+@teor0)
 ![](https://github-stats-alpha.vercel.app/api?username=teor0&cc=00000&tc=8c1eff&ic=fff&bc=ff2975)
+
 [![](https://img.shields.io/badge/-GMAIL-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:orlandomatteo38@gmail.com "Contact me")
 
 
