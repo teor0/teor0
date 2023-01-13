@@ -1,12 +1,12 @@
 
-![](https://readme-typing-svg.demolab.com?font=Josefin+Sans&duration=5000&pause=200&color=1300F7&multiline=true&width=450&height=75&lines=Welcome+to+my+Github+profile+page;I'm+Matteo+Orlando+%7C+@teor0)
+![](https://readme-typing-svg.demolab.com?font=Josefin+Sans&duration=6000&pause=200&color=1300F7&multiline=true&width=450&height=75&lines=Welcome+to+my+Github+profile+page;I'm+Matteo+Orlando+%7C+@teor0)
 ![](https://github-stats-alpha.vercel.app/api?username=teor0&cc=00000&tc=8c1eff&ic=fff&bc=ff2975)
 
 [![](https://img.shields.io/badge/-GMAIL-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:orlandomatteo38@gmail.com "Contact me")
 
 
 ### About me:
-- :book: Currently studying Ingegneria Informatica at [Università della calabria](https:www.unical.it).
+- :book: Currently studying Ingegneria Informatica @ [Università della calabria](https://www.unical.it).
 - :computer: FOSS enthusiast
 - :sound: [El Huervo worshipper](https://open.spotify.com/artist/2gG1LfmQPkHZNptgVpYlpr)
 - :game_die: Tabletop player sometimes, videogames player mostly
@@ -28,7 +28,8 @@
 | Name                                                          | Technologies                                                                                                                                                                                                                   |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [ScriptsRedditBot](https://github.com/teor0/ScriptsRedditBot) | ![](https://img.shields.io/badge/API-red?style=flat-square&logo=youtube) ![](https://img.shields.io/badge/API-orange?style=flat-square&logo=reddit) ![](https://img.shields.io/badge/API-purple?style=flat-square&logo=twitch) |
-| [my-voidrice](https://github.com/teor0/my-voidrice)           | ![](https://img.shields.io/github/downloads/teor0/my-voidrice/total?logoColor=%C3%AC)                                                                                                                                                                                                                               |
+| [my-voidrice](https://github.com/teor0/my-voidrice)           | ![](https://img.shields.io/github/downloads/teor0/my-voidrice/total?logoColor=%C3%AC) |
+
 
 ---
 # My Github Stats
