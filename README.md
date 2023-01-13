@@ -6,7 +6,7 @@
 
 
 ### About me:
-- :book: Currently studying Ingegneria Informatica @ [Università della calabria](https:www.unical.it).
+- :book: Currently studying Ingegneria Informatica at [Università della calabria](https:www.unical.it).
 - :computer: FOSS enthusiast
 - :sound: [El Huervo worshipper](https://open.spotify.com/artist/2gG1LfmQPkHZNptgVpYlpr)
 - :game_die: Tabletop player sometimes, videogames player mostly
