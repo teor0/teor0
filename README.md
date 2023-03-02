@@ -27,7 +27,7 @@
 ## Repositories you make take a look to
 | Name                                                          | Technologies                                                                                                                                                                                                                   |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [ScriptsRedditBot](https://github.com/teor0/ScriptsRedditBot) | ![](https://img.shields.io/badge/API-red?style=flat-square&logo=youtube) ![](https://img.shields.io/badge/API-orange?style=flat-square&logo=reddit) ![](https://img.shields.io/badge/API-purple?style=flat-square&logo=twitch) |
+| [RedditNoBot](https://github.com/teor0/RedditNoBot) | ![](https://img.shields.io/badge/API-red?style=flat-square&logo=youtube) ![](https://img.shields.io/badge/API-orange?style=flat-square&logo=reddit) ![](https://img.shields.io/badge/API-purple?style=flat-square&logo=twitch) |
 | [my-voidrice](https://github.com/teor0/my-voidrice)           | ![](https://img.shields.io/github/downloads/teor0/my-voidrice/total?logoColor=%C3%AC) |
 
 
