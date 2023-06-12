@@ -7,10 +7,10 @@
 
 ### About me:
 - :book: Currently studying Ingegneria Informatica @ [Università della calabria](https://www.unical.it).
-- :computer: FOSS enthusiast
-- :sound: [El Huervo worshipper](https://open.spotify.com/artist/2gG1LfmQPkHZNptgVpYlpr)
-- :game_die: Tabletop player sometimes, videogames player mostly
-- :books: I read various things from manga to comics to [Strugatsky brothers books](https://en.wikipedia.org/wiki/Arkady_and_Boris_Strugatsky)
+- :computer: [Free Software](https://www.fsf.org/) enthusiast.
+- :sound: [El Huervo worshipper](https://open.spotify.com/artist/2gG1LfmQPkHZNptgVpYlpr).
+- :game_die: Tabletop player sometimes, videogames player mostly.
+- :books: I read various things from manga to comics to [Strugatsky brothers books](https://en.wikipedia.org/wiki/Arkady_and_Boris_Strugatsky).
 
 ---
 # What I could mess with, daily
