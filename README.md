@@ -24,7 +24,7 @@
 ![](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ---
-## Repositories you make take a look to
+## Repositories you may take a look to
 | Name                                                          | Technologies                                                                                                                                                                                                                   |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [RedditNoBot](https://github.com/teor0/RedditNoBot) | ![](https://img.shields.io/badge/API-red?style=flat-square&logo=youtube) ![](https://img.shields.io/badge/API-orange?style=flat-square&logo=reddit) ![](https://img.shields.io/badge/API-purple?style=flat-square&logo=twitch) |
