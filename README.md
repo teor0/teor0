@@ -38,9 +38,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=teor0&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=teor0&theme=github_dark)
 
-<div align="center">
-<p></p>
-<img src="https://profile-counter.glitch.me/teor0/count.svg" align="center">
-</div>
-
 ---
