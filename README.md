@@ -17,7 +17,6 @@
 ![](https://readme-components.vercel.app/api?component=logo&logo=Linux&fill=f9c600)
 ![](https://readme-components.vercel.app/api?component=logo&logo=vim&fill=green)
 ![](https://readme-components.vercel.app/api?component=logo&logo=Java&fill=ff8007)
-![](https://readme-components.vercel.app/api?component=logo&logo=C&fill=50a7f4)
 ![](https://readme-components.vercel.app/api?component=logo&logo=Python&fill=0a2a5e)
 ![](https://readme-components.vercel.app/api?component=logo&logo=Github&fill=000000)
 ![](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
